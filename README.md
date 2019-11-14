@@ -4,7 +4,7 @@
 
 In these review exercises, you will be reviewing the basic Python techniques that are presented in the exercises of Think Python Chapter 10. 
 
-Start by cloning the Chapter 10 Exercises into you local repository.
+Start by cloning the Chapter 11 Exercises into you local repository.
      
      $ cd ~
      $ git clone https://github.com/cliffjsgit/chapter-11
@@ -16,7 +16,7 @@ Once you have cloned this repo, you may proceed to the labs.
      ~/chapter-11 (master)$ ls
      ...
 
-Create a solutions directory for your exercise solutions, in the chapter-10 directory.
+Create a solutions directory for your exercise solutions, in the chapter-11 directory.
       
      ~/chapter-11 (master)$ mkdir solutions
       
